@@ -6,7 +6,7 @@ const Quiz = () => {
     <div className="quiz">
       <h1>Quiz App</h1>
       <hr />
-      <h2>What device is required for the Internet Connection?</h2>
+      <h2>1.What device is required for the Internet Connection?</h2>
       <ul>
         <li>Modem</li>
         <li>Router</li>
