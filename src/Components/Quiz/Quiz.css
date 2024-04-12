@@ -49,3 +49,13 @@
   margin: auto;
   font-size: 18px;
 }
+
+.quiz .correct {
+  background: #dffff2;
+  border-color: #00d397;
+}
+
+.quiz .wrong {
+  background: #ffebeb;
+  border-color: #ff4a4a;
+}
