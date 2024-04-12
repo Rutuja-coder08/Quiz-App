@@ -5,7 +5,7 @@ Made a quiz website or app using React JS. In this quiz app you can update your 
 
 # Installation
 Clone the repository:
-git clone https://github.com/Rutuja-coder08/Gemini-Clone.git
+git clone https://github.com/Rutuja-coder08/Quiz-App
 
 Navigate to the project directory: cd your-project
 
